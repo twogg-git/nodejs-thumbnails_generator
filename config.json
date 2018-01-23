@@ -1,0 +1,6 @@
+{
+  "server": {
+    "port": 3001,
+    "thumbs_path": "/opt/thumbnailer/thumbs/"
+  }
+}

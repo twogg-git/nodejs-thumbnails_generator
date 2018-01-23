@@ -1,0 +1,16 @@
+{
+  "name": "Thumbnailer",
+  "description": "Thumbnailer server",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "crypto": "*",
+    "webshot": "*",
+    "imagemagick": "*",
+    "winston": "*"
+  }
+}
